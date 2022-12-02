@@ -1,0 +1,13 @@
+h1,h2,.game-canvas{
+    text-align: center;
+}
+.game-canvas{
+    margin-top:80px;
+}
+h1{
+    color: crimson;
+    margin-top: 40px;
+}
+span{
+    color: brown;
+}
